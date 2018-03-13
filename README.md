@@ -1,2 +1,4 @@
 # Console-Application
-C# test 2
+Second C# Project.
+
+Read a text file and output the text to console.
